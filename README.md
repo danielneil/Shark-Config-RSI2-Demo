@@ -4,7 +4,7 @@
 
 # Shark - RSI2 Backtest Demo Configuration
 
-This is the RSI2 backtest demo configuration for the Shark algorithmic trading platform.
+This is the RSI2 backtest demo configuration for the Shark algorithmic trading platform - it is to accompany the RSI2 [tutorial](https://github.com/danielneil/Shark-Doc/blob/main/tutorials/RSI2.md).
 
 For more information about Shark, see [here](https://github.com/danielneil/Shark).
 
