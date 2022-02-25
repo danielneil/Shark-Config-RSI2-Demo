@@ -2,7 +2,7 @@
   <img src="https://github.com/danielneil/Shark/blob/main/shark/files/shark_ui_patches/logofullsize.png?raw=true">
 </p>
 
-# Shark - RSI2 backtest Demo Configuration
+# Shark - RSI2 Backtest Demo Configuration
 
 This is the RSI2 backtest demo configuration for the Shark algorithmic trading platform.
 
