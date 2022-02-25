@@ -1,0 +1,15 @@
+---
+# tasks file for backtests
+- name: Copying back test code
+  synchronize:
+   src: backtests
+   dest: /shark/
+
+- name: Ammending perms
+  file:
+   path: /shark/backtests
+   owner: shark
+   group: shark
+   mode: '0777'
+   recurse: yes
+

@@ -1,0 +1,3 @@
+---
+- name: Converting yml into nagios configuration.
+  shell: /shark/Shark-Config/config/files/convert_configuration.py > /usr/local/nagios/etc/conf.d/shark.cfg

@@ -1,0 +1,10 @@
+---
+- name: Reloading shark configuration
+  hosts: localhost
+  connection: local 
+  become: true
+
+  roles:
+   - config
+   - backtests
+   - strategies
