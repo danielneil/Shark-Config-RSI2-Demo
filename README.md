@@ -10,8 +10,8 @@ For more information about Shark, see [here](https://github.com/danielneil/Shark
 
 Out of the box it comes with:
 
-* [Sample configuration](https://github.com/danielneil/Shark-Config/blob/master/config/files/trading-config.yml):
+* [Sample configuration](https://github.com/danielneil/Shark-Config-RSI2-Demo/blob/master/config/files/trading-config.yml):
     * Demostrating the use of backtesting the famous RSI2 strategy with Shark against BitCoin.
     
-* [Sample Backtest code](https://github.com/danielneil/Shark-Config/blob/master/backtests/files/backtests/rsi2.py):
+* [Sample Backtest code](https://github.com/danielneil/Shark-Config-RSI2-Demo/blob/master/backtests/files/backtests/rsi2.py):
     * A simple mean reversion strategy based on Larry Connor's RSI2 famous strategy.
