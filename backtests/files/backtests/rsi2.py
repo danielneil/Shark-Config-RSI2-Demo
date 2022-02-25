@@ -1,5 +1,7 @@
 #!/usr/bin/python3.9
 
+# This code is modelled from https://gbeced.github.io/pyalgotrade/docs/v0.16/html/sample_rsi2.html
+
 from __future__ import print_function
 
 from pyalgotrade import strategy
