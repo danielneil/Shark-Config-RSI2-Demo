@@ -233,8 +233,8 @@ if __name__ == "__main__":
     overBoughtThreshold = int(args.overBoughtThreshold)
     
     dataFile = ""
+    
     if data_format == "yahoo_finance_data":
-
         dataFile = "/shark/historical/yahoo_finance_data/" + ticker + ".csv"
         
     run_strategy(ticker, shares, capital, dataFile, entrySMA, exitSMA, rsiPeriod, overSoldThreshold, overBoughtThreshold)
